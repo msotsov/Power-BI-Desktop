@@ -13,4 +13,4 @@ Invoices - extended price, city, hierarchy (country, city, customer name)
 
 Visuals:
 Map (extended price by city)
-Stacked bar chart (extended price by hierarchy)
+Stacked bar chart (extended price by hierarchy, affects Map visual)
